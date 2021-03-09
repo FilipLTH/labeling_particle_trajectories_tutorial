@@ -1,0 +1,13 @@
+neg12.png
+neg17.png
+neg21.png
+neg30.png
+neg8.png
+pos13.png
+pos1.png
+pos2.png
+pos3.png
+zero20.png
+zero21.png
+zero34.png
+zero6.png
